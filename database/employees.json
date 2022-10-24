@@ -1,0 +1,9 @@
+[{"name": "Taras Petrov", "object_id": "2", "type_of_work": "plant", "id": 1},
+  {"name": "Serhii Str", "object_id": "1", "type_of_work": "salon", "id": 2},
+  {"name": "Andrey Draw", "object_id": "1", "type_of_work": "plant", "id": 3},
+  {"name": "Igor Andreev", "object_id": "2", "type_of_work": "salon", "id": 4},
+  {"name": "Anatoliy Petlin", "object_id": "3", "type_of_work": "plant", "id": 5},
+  {"name": "Alex Trest", "object_id": "1", "type_of_work": "salon", "id": 6},
+  {"name": "Yuriy Naum", "object_id": "2", "type_of_work": "plant", "id": 7}
+
+]
